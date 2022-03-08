@@ -29,7 +29,7 @@ A firewall is a software program or piece of hardware that helps to defend hacke
  # How does the firewall works 
  * The basic task of firewall is to regulate the flow of traffic in between computer network of different trust levels.
  * For example home network (zone of trust)  ==> Firewall  == > untrusted internet (which is zone of no trust).
- *  All incoming messages are passed through the firewall and firewall checks that it satisfy the security criteria and if they are passed then they are passed through the firewall otherwise they are block by firewall
+ *  All incoming messages are passed through the firewall and firewall checks that it satisfy the security criteria and if they are passed then they are passed through the firewall otherwise they are block by firewall.
  * If we turn off the Firewall then all messages are passed freely without the firewall as a result hackers can easily hack our computer and obtain the sensitive data like banks details , login ids and pass etc.
 
  ___
