@@ -11,11 +11,11 @@ A firewall is a software program or piece of hardware that helps to defend hacke
 
 
   # Software Firewall
- * A Software Firewall is a program that is installed on your pc
+ * A Software Firewall is a program that is installed on your pc.
  * Software firewall is a special type of computer software runs on a computer/server.
  * It’s main purpose is to protect your computer/server from outside attempts to control or gain access and depending on your choice of software firewall.
  * Software firewall can also be configured for checking any suspicious outgoing requests. 
- * All the Windows operating System like window xp , window vista window 8, window 10 , window 11 all operating System have an inbuilt software firewall 
+ * All the Windows operating System like window xp , window vista window 8, window 10 , window 11 all operating System have an inbuilt software firewall. 
  * Software firewalls can monitor traffic trying to leave your computer as well, preventing it from being used to attack other networks or devices.
  * A software firewall has to be installed on each computer in the network. Therefore, a software firewall can only protect one computer at a time.
 
@@ -27,7 +27,7 @@ A firewall is a software program or piece of hardware that helps to defend hacke
  * Hardware firewalls that use packet filtering examine each data packet and check to see where it is coming from and its location. The data the firewall collects about each packet is then compared to a permissions list to see if it fits the profile of data that should be discarded. A hardware firewall can protect all the computers attached to it.
 
  # How does the firewall works 
- * The basic task of firewall is to regulate the flow of traffic in between computer network of different trust levels
+ * The basic task of firewall is to regulate the flow of traffic in between computer network of different trust levels.
  * For example home network (zone of trust)  ==> Firewall  == > untrusted internet (which is zone of no trust).
  *  All incoming messages are passed through the firewall and firewall checks that it satisfy the security criteria and if they are passed then they are passed through the firewall otherwise they are block by firewall
  * If we turn off the Firewall then all messages are passed freely without the firewall as a result hackers can easily hack our computer and obtain the sensitive data like banks details , login ids and pass etc.
@@ -140,7 +140,7 @@ ___
 # Advantages of Firewall:-
 
 ## 1.Monitor Traffic
-* A major responsibility of a firewall is to monitor the traffic passing through it. Whatever the information traveling through a network is in the form of packets. F
+* A major responsibility of a firewall is to monitor the traffic passing through it. Whatever the information traveling through a network is in the form of packets. 
 * Firewall inspects each of these packets for any hazardous threats. If any chance the firewall happens to find them it will immediately block them.
 
 ## 2. Protection against Trojans
